@@ -1,0 +1,11 @@
+body {
+    background-color: #4f5951;
+    font-style:italic;
+    font-weight: 500;
+  }
+  
+  .jumbotron {
+    background-image: url('../image/HarmfulBacteria.jpeg');
+    background-size: 100% 100%;
+    text-align: center;
+  }
